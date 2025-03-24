@@ -7,4 +7,4 @@
 💻 I'm a **Front-End Developer** with **1 year of hands-on experience**.  
 🚀 Proficient in **JavaScript**, building interactive and dynamic web applications.  
 🌱 Currently learning **advanced front-end frameworks** and best practices.  
-📫 How to reach me: 📨 your-email@example.com | 🌐 [Your Portfolio](https://your-portfolio-link.com)  
+📫 How to reach me: 📨 your-email@example.com | 🌐 [Your Portfolio]([https://your-portfolio-link.com](https://leduyquan1911.github.io/portfolio/))  
