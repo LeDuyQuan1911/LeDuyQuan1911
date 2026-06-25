@@ -45,7 +45,7 @@ In the AI era, I believe a developer's value is not only writing code, but also 
 ### Connect with me
 
 📧 **Email:** [leduyquan2574@gmail.com](mailto:leduyquan2574@gmail.com)  
-🌐 **Portfolio:** [leduyquan1911.github.io/portfolio-duyquan](https://leduyquan1911.github.io/portfolio-duyquan/)  
+🌐 **Portfolio:** [leduyquan1911.github.io/portfolio-duyquan](https://leduyquan1911.github.io/porfolio_DuyQuan/)  
 🧰 **Tools:** [ldqtool.click](https://ldqtool.click/)  
 💻 **GitHub:** [LeDuyQuan1911](https://github.com/LeDuyQuan1911)
 
